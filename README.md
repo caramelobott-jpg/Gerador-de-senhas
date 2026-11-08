@@ -41,6 +41,6 @@ Este projeto foi criado para praticar lógica de programação e aprender concei
 
 ---
 
-**Desenvolvido por iko** 💻
+**Desenvolvido por Martins** 💻
 
 *Projeto de estudos em programação e segurança da informação.*
